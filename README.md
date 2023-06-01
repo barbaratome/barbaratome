@@ -1,26 +1,17 @@
 
 
-<!--
-**barbaratome/barbaratome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Oi, eu sou a Bárbara! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 🚀 ✍🏻️ Desenvolvedora Full Stack com mais de um ano de experiência na área após uma bem-sucedida transição de carreira. Dentre minhas habilidades estão: criatividade, resolução de problemas e aprendizado rápido, o que me permite enfrentar desafios complexos com eficiência. Minhas competências técnicas incluem:
 
+- Linguagens e Frameworks: ASP.NET, .NET Core, MVC, Flutter, JavaScript, HTML, Python.
+- Desenvolvimento Front-End e Back-End.
+- Banco de Dados: Microsoft SQL Server.
+- Controle de Versão: Git.
+- APIs: REST.
 
-## Hello! Eu sou a Bárbara! ✨
-
-- 👩🏻‍💻 Estudante de Tech (Flutter) 
-- 🚀 Compartilho minha rotina de estudos no Youtube
-
+Ao longo da minha trajetória profissional, tenho contribuído para a manutenção e desenvolvimento de projetos web e mobile utilizando tecnologias modernas e práticas ágeis. Estou constantemente buscando me atualizar e aprender novas tecnologias para aprimorar minhas habilidades e garantir que meus projetos estejam em conformidade com as melhores práticas do setor.
 
 <div align="start">
   <a href="https://github.com/barbaratome">
